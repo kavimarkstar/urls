@@ -1,20 +1,53 @@
-{
-    "site": [
-        {
-            "name": "PronHub",
-            "url": "https://www.pronhub.com"
-        },
-        {
-            "name": "Xvideos",
-            "url": "https://www.xvideos.com"
-        },
-        {
-            "name": "Xvideos",
-            "url": "https://www.youtube.com"
-        },
-        {
-            "name": "YouTube",
-            "url": "https://www.youtube.com"
-        }
-    ]
-}
+[
+    {
+        "category": "Home",
+        "sites": [
+            {
+                "name": "YouTube",
+                "url": "https://www.youtube.com"
+            },
+            {
+                "name": "Google",
+                "url": "https://www.google.com"
+            },
+            {
+                "name": "Facebook",
+                "url": "https://www.facebook.com"
+            }
+        ]
+    },
+    {
+        "category": "18+",
+        "sites": [
+            {
+                "name": "PornHub",
+                "url": "https://www.pornhub.com"
+            },
+            {
+                "name": "Xvideos",
+                "url": "https://www.xvideos.com"
+            },
+            {
+                "name": "Xnxx",
+                "url": "https://www.xnxx.com"
+            }
+        ]
+    },
+    {
+        "category": "App",
+        "sites": [
+            {
+                "name": "TikTok",
+                "url": "https://www.tiktok.com"
+            },
+            {
+                "name": "Instagram",
+                "url": "https://www.instagram.com"
+            },
+            {
+                "name": "Twitter",
+                "url": "https://www.twitter.com"
+            }
+        ]
+    }
+]
