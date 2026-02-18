@@ -1,21 +1,6 @@
 [
-    {
-        "category": "Home",
-        "sites": [
-            {
-                "name": "YouTube",
-                "url": "https://www.youtube.com"
-            },
-            {
-                "name": "Google",
-                "url": "https://www.google.com"
-            },
-            {
-                "name": "Facebook",
-                "url": "https://www.facebook.com"
-            }
-        ]
-    },
+
+    
     {
         "category": "18+",
         "sites": [
